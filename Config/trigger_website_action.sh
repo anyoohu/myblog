@@ -8,8 +8,8 @@
 ### 
 
 # 定义要触发的仓库信息
-REPO_OWNER=PKM-er
-REPO_NAME=Pkmer-Website
+REPO_OWNER=anyoohu
+REPO_NAME=anyoohu-Website
 
 # 定义要触发的自定义事件类型
 EVENT_TYPE=docs-updated
