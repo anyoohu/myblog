@@ -1,11 +1,13 @@
 ### your site title here
+title: anyoohu
 
-title: Your Name
-description: subtitle | affiliations | motto
+# 描述 description: subtitle | affiliations | motto
+description: 这是我的个人blog，正在搭建中
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+
+baseurl: /anyoohu #name of GitHub repository
+url: "https://anyoohu.github.io" #custom url to be used instead of GitHub repository
+email: fq.hu@qq.com #
 
 # Pagination
 paginate: 4
@@ -13,7 +15,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+twitter: "www.baidu.com"
 linkedin: "#"
 stackoverflow: "#"
 github: "#"
